@@ -1,0 +1,28 @@
+header {
+  background-color: #001524;
+  color: #d3d3d3;
+  text-align: center;
+
+}
+
+body {
+  background-color: #ffecd1;
+  background-repeat: repeat;
+  background-image: url(record.png);
+  margin: 0;
+}
+
+main {
+  background-color: #d3d3d3;
+  padding: 1em;
+}
+
+
+/*
+blue #001524
+teal #15616d
+cream #ffecd1
+orange #ff7d00
+red #78290f
+gray #d3d3d3
+ */
